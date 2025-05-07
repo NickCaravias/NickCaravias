@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kal038" alt="NickCaravias" /></a> </p>
 
-- 📫 Reach out to me at **nick.caravias@gmail.com**
+📫 Reach out to me at **nick.caravias@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,9 +13,13 @@
 </p>
 
 ## Languages
-<h1>
+<h1> 
     <img height="26" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
     <img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
+    <img height="26" alt="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> &nbsp;
+    <img height="26" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"> &nbsp;
+    <img height="26" alt="CPP" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> &nbsp;
+    <img height="26" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> &nbsp;
 </h1>
 
 ## Dev Tools & Frameworks
@@ -25,9 +29,17 @@
     <img height="26" alt="VueJS" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">&nbsp;
     <img height="26" alt="Django" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"> &nbsp;
     <img height="26" alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> &nbsp;
-</h1>
+    <img height="26" alt="Postgres" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> &nbsp;
+    <img height="26" alt="Mongo" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"> &nbsp;
+    <img height="26" alt="Redis" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg"> &nbsp;
+</h1> 
 
 ## Cloud & DevOps
-<h1> 
+<h1>  
     <img height="26" alt="Kubernetes" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"> &nbsp;
-</h1>
+    <img height="26" alt="Azdo" src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg"> &nbsp;
+    <img height="26" alt="Azure" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"> &nbsp;
+    <img height="26" alt="Azdo" src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg"> &nbsp;
+    <img height="26" alt="Jenkins" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"> &nbsp;
+    <img height="26" alt="Terraform" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg"> &nbsp;
+</h1> 
