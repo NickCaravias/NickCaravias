@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I am Nick Caravias</h1>
-<h3 align="center">I am currently a Forward Deployed Engineer at Thoughtful AI</h3>
+<h3 align="center">I am currently an applied AI Software Engineer at Growth Protocol</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NickCaravias&label=Profile%20views&color=0e75b6&style=flat" alt="kal038" /> </p>
 
